@@ -35,6 +35,6 @@ O evento será online pelo Google Meet no dia 26/03/2022.
 
 Site oficial da Arduino Week 2022: [https://week.arduino.cc/events](https://week.arduino.cc/events)
 
-Dúvidas ou mais informações, entre em contato com Abecê da Educação Ambiental: ongabcambiental@gmail.com
+Dúvidas ou mais informações, entre em contato com Abecê da Educação Ambiental: ongabcambiental@gmail.com / [@ong.abcambiental](https://www.instagram.com/ong.abcambiental)
 
 
