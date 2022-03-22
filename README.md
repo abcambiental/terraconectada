@@ -12,7 +12,7 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 
 ## Programação
 
-O evento será online pelo Google Meet no dia 26/03/2022.
+O evento será online pelo Google Meet na manhã do dia 26/03/2022.
 
 - Apresentação e boas vindas do Arduino Day
 - IoT, sensores e ambiente - 
