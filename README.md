@@ -5,11 +5,15 @@ Para celebrar a Arduino Week 20022 e difundir as possibilidades criativas do Ard
 
 Em consonância com os objetivos da ONG Abecê da Educação Ambiental, o Arduino é um importante recurso para explorar práticas educativas ambientais, criação de dispositivos, irrigação automática, monitoramento do solo, da água, de dados climáticos, bem como possibilitar desenvolvimento de iniciativas de ciência cidadã pelo sensoriamento participativo. Neste sentido, **Terra Conectada** reforça a importância do desenvolvimento de tecnologias sociais para melhor compreensão e proteção do meio ambiente. 
 
-O evento será online pelo Google Meet no dia 26/03/2022.
+## Inscrição
 
 Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLScaPpW16FcdkYCClcYDY00NW6ylxixAA51H_mBS250NJfQYAQ/viewform).
 
+
 ## Programação
+
+O evento será online pelo Google Meet no dia 26/03/2022.
+
 - Apresentação e boas vindas do Arduino Day
 - IoT, sensores e ambiente - 
 - Tecnologias abertas e ensino de programação - Alexandre Villares 
