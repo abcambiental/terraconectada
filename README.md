@@ -9,19 +9,18 @@ Em consonância com os objetivos da ONG Abecê da Educação Ambiental, o Arduin
 
 Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLScaPpW16FcdkYCClcYDY00NW6ylxixAA51H_mBS250NJfQYAQ/viewform).
 
-
 ## Programação
 
-O evento será online pelo Google Meet na manhã do dia 26/03/2022.
+O evento será online pelo Google Meet no sábado dia 26/03/2022.
 
-- Apresentação e boas vindas do Arduino Day
-- IoT, sensores e ambiente - 
-- Tecnologias abertas e ensino de programação - Alexandre Villares 
-- Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
-- Rastreador automático solar para otimização da conversão fotovoltaica
+- 09:00 - Apresentação e boas vindas do Arduino Week
+- IoT, sensores e ambiente 
+- 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
+- 10:30 - Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
+- 11:00 - Rastreador automático solar para otimização da conversão fotovoltaica
 - Urbidimetro-condutivimetro e phmetro integrados de baixo custo
-- Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
-- Encerramento
+- 11:30 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
+- 12:00 - Encerramento
 
 ## Sobre os participantes
 
