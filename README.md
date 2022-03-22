@@ -14,8 +14,7 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 O evento será online pelo Google Meet no sábado dia 26/03/2022.
 
 - 09:00 - Apresentação e boas vindas do Arduino Week
-- Rastreador automático solar para otimização da conversão fotovoltaica
-- Urbidimetro-condutivimetro e phmetro integrados de baixo custo
+- 09:30 - Urbidimetro-condutivimetro e phmetro integrados de baixo custo - Gabriel Arcanjo
 - 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - 10:30 - Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
 - 11:00 - IoT, sensores e ambiente 
