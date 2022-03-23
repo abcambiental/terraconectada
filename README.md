@@ -13,7 +13,7 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 
 O evento será online pelo Google Meet no sábado dia 26/03/2022.
 
-- 09:00 - Apresentação e boas vindas do Arduino Week
+- 09:00 - Apresentação e boas vindas da Terra Conectada - Arduino Week 2022 / Abecê da Educação Ambiental
 - 09:30 - Condutivímetro e turbidímetro integrados de baixo custo - Gabriel Arcanjo de Sousa
 - 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - 10:30 - Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
