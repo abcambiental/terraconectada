@@ -27,6 +27,8 @@ O evento será online pelo Google Meet no sábado dia 26/03/2022.
 
 **Artur Cabral** é artista computacional, pesquisador e professor. Doutorando em Arte Contemporânea pelo PPGAV na UnB, faz parte da equipe do Medialab/UNB, onde em suas pesquisas explora a relação entre máquinas e vidas naturais por meio de interfaces e poéticas computacionais. Participou de exposições coletivas no Brasil e no exterior, seus trabalhos poéticos têm como fio condutor a emergência computacional e vão desde software-art, instalações artísticas e objetos interativos.
 
+**Gabriel Arcanjo de Sousa** é graduado em Tecnologia em Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCe) - Campus Juazeiro do Norte (2022). Técnico em eletrotécnica pelo IFCe - Campus Juazeiro do Norte (2017). Bolsista voluntário de iniciação científica pelo PEVPI (2019 - 2020) no Protótipo de instrumento para medição de turbidez e condutividade integrados de baixo custo e Bolsista de iniciação científica pelo PIBIC (2019 - 2020) no projeto Gerenciamento remoto de ar condicionado. Participação como tutor no projeto Pragrame_CE no ano de 2021.
+
 **MudaLAB** é um negócio social que articula a tecnologia e os saberes sociais para contribuir com a solução de desafios. Nos inspiramos na Inovação Cidadã, no Movimento Maker e no Aprender Fazendo para criar objetos, cursos, oficinas e serviços que produzam conhecimentos e contribuam para transformações sociais.
 
 ---
