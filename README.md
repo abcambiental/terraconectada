@@ -17,7 +17,7 @@ O evento será online pelo Google Meet no sábado dia 26/03/2022.
 - 09:30 - Condutivímetro e turbidímetro integrados de baixo custo - Gabriel Arcanjo de Sousa
 - 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - 10:30 - Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
-- 11:00 - IoT, sensores e ambiente 
+- 11:00 - Rastreador solar para sistema fotovoltaico - Emanuel Xavier
 - 11:30 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
 - 12:00 - Encerramento
 
@@ -26,6 +26,8 @@ O evento será online pelo Google Meet no sábado dia 26/03/2022.
 **Alexandre Villares** é professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da Noite de Processing em São Paulo. Ministra cursos na graduação e na pós-graduação, desenvolvendo também cursos independentes e atividades como educador de tecnologias e artes no Sesc-SP.
 
 **Artur Cabral** é artista computacional, pesquisador e professor. Doutorando em Arte Contemporânea pelo PPGAV na UnB, faz parte da equipe do Medialab/UNB, onde em suas pesquisas explora a relação entre máquinas e vidas naturais por meio de interfaces e poéticas computacionais. Participou de exposições coletivas no Brasil e no exterior, seus trabalhos poéticos têm como fio condutor a emergência computacional e vão desde software-art, instalações artísticas e objetos interativos.
+
+**Emanuel Xavier** é tecnólogo em Manutenção Industrial pela Faculdade de Tecnologia Centec (Fatec Cariri), com ênfase em automação de processos, acionamentos de máquinas elétricas e Internet das Coisas (IoT). Possui experiência em manutenção industrial relacionada à eletromecânica, além de produção, geração e distribuição de energia elétrica em usinas fotovoltaicas. Tutor no Programe_CE.
 
 **Gabriel Arcanjo de Sousa** é graduado em Tecnologia em Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCe) - Campus Juazeiro do Norte (2022) e Técnico em eletrotécnica (2017) pela mesma instituição. Bolsista voluntário de iniciação científica pelo PEVPI (2019 - 2020) no Protótipo de instrumento para medição de turbidez e condutividade integrados de baixo custo e Bolsista de iniciação científica pelo PIBIC (2019 - 2020) no projeto Gerenciamento remoto de ar condicionado. Participação como tutor no projeto Pragrame_CE (2021).
 
