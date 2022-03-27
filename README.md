@@ -7,7 +7,7 @@ Em consonância com os objetivos da ONG Abecê da Educação Ambiental, o Arduin
 
 ## Inscrição
 
-Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLScaPpW16FcdkYCClcYDY00NW6ylxixAA51H_mBS250NJfQYAQ/viewform).
+Inscrições encerradas.
 
 ## Programação
 
